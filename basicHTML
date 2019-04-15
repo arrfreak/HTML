@@ -1,13 +1,15 @@
+<!DOCTYPE html><!--Every HTML begins with this-->
 <html>
 
-<h1>H1 is the biggest heading in an HTML page</h1>
-<h2>H2 is a smaller heading than H1 </h2>
+	<head>
+		<title>Title of the page</title>
+	</head>
 
-<body>
+	<body><!--body is the visible part of the HTML page-->
 
-<p>This is a paragraph</p>
-<p>Paragraph 2</p>
-
-</body>
-
+		<h1>h1 is the biggest heading in an HTML page</h1>
+		<h2>h2 is a smaller heading than H1 </h2>
+		<p>This is a paragraph</p>
+		<p>Paragraph 2</p>
+	</body>
 </html>
